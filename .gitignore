@@ -1,0 +1,8 @@
+venv/
+ingest/__pycache__/
+infra/*.tfvars
+infra/*.terraform/
+infra/*.terraform/*
+infra/*.tfstate
+.env
+ingest/output.csv
